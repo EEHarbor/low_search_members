@@ -1,6 +1,6 @@
 # Low Search Members for ExpressionEngine
 
-This add-on allows you to target standard member fields for searching with [Low Search](http://gotolow.com/addons/low-search). Search results are **channel entries** related to matching members, as though the [author_id parameter](https://ellislab.com/expressionengine/user-guide/add-ons/channel/channel_entries.html#author-id) was set. This is particularly useful when dealing with a member add-on like [Zoo Visitor](http://ee-zoo.com/add-ons/visitor/). Requires Low Search v3.4.0+.
+This add-on allows you to target standard member fields for searching with [Low Search](http://gotolow.com/addons/low-search). Search results are **channel entries** related to matching members, as though the [author_id parameter](https://ellislab.com/expressionengine/user-guide/add-ons/channel/channel_entries.html#author-id) was set. This is particularly useful when dealing with a member add-on like [Zoo Visitor](http://ee-zoo.com/add-ons/visitor/). *Requires Low Search 4+*.
 
 ## Installation
 

@@ -100,7 +100,7 @@ class Low_search_filter_members extends Low_search_filter {
 			}
 			else
 			{
-				list($val, $in) = low_explode_param($val);
+				list($val, $in) = $this->params->explode($val);
 				$where[] = array($key, ($in ? 'where_in' : 'where_not_in'), $val);
 			}
 		}
